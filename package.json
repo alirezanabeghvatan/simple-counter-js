@@ -1,12 +1,21 @@
 {
-  "name": "scj",
-  "version": "1.0.0",
-  "description": "",
+  "name": "simple-counter-js",
+  "version": "1.0.2",
+  "description": "A simple JavaScript counter module.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alirezanabeghvatan/simple-counter-js"
+  },
+  
+  "author": "Alirezanabeghvatan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "lodash": "^4.17.21"
+  }
+  
 }
